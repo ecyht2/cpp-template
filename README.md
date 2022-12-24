@@ -24,6 +24,6 @@ bin/hello-world
 
 ## Documentation
 
-Documentation of the coursework can be found in the project [GitHub pages](https://ecyht2.github.io/hello-world/).
+Documentation of the coursework can be found in the project [GitHub pages](https://ecyht2.github.io/cpp-template/).
 
 ## TODO

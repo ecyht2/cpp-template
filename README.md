@@ -1,5 +1,5 @@
 # Hello-World
-A template repository.
+Template Repository for a CMake base C++ program.
 
 ## Building
 
